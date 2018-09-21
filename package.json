@@ -1,0 +1,26 @@
+{
+  "name": "project-hedwig",
+  "version": "1.0.0",
+  "description": "A React Social Media App",
+  "keywords": [
+    "bootstrap",
+    "react"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "4.1.3",
+    "jquery": "3.3.1",
+    "popper.js": "1.14.4",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-scripts": "1.1.4",
+    "uuid": "3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

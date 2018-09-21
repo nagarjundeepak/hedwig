@@ -1,2 +1,0 @@
-# hedwig
-Created with CodeSandbox
